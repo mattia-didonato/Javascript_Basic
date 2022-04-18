@@ -1,6 +1,6 @@
 # Javascript_Basic
 
-1. [About the project](14)
+1. [About the project](README.md#about-the-project)
 
 - [Appereance]()
 - [Requirements]()
