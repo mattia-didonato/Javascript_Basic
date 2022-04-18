@@ -35,7 +35,7 @@ As soon as the user enters the page, he will see 0 as the value of the counter a
 
 ![Counter_application_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/101564006/163794337-4f47261d-7312-4e2e-ac3d-e2bee4235891.gif)
 
-## Links of my works
+## 💻Links of my works
 
 - [HTML & CSS Site](https://625d3eb737f5c32fb98822ec--spectacular-biscuit-ec7dd4.netlify.app/)
 
