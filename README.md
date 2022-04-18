@@ -1,6 +1,6 @@
 # Javascript_Basic
 
-1. [# About the project]()
+1. [About the project]()
 
 - [Appereance]()
 - [Requirements]()
