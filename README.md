@@ -3,6 +3,7 @@
 1. [About the project]()
 
 - [Appereance]()
+- [Requirements]()
 - [Built with]()
 
 2. [Getting Started]()
@@ -15,4 +16,21 @@
 ## Appereance
 
 <img src="assets/img/Counter application.png" width=800px>
+
+## Requirements
+
+Develop a JavaScript application that allows the user to increase and decrease the value of the counter
+
+## Build with
+
+- HTML5
+- CSS3
+- Javascript
+
+# Getting Started
+
+# Function
+
+As soon as the user enters the page, he will see 0 as the value of the counter and will have two buttons +/- to change the value of the counter.
+
 
