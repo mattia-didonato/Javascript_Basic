@@ -9,7 +9,7 @@
 2. [GETTING STARTED](README.md#getting-started)
 - [function](README.md#function)
 
-3. [WORKS](README.md#links-of-my-works)
+3. [WORKS](README.md#works)
 
 ## ABOUT THE PROJECT
 
