@@ -1,17 +1,17 @@
  # Contents
 
-1. [About the project](README.md#about-the-project)
+1. [ABOUT THE PROJECT](README.md#about-the-project)
 
 - [Appereance](README.md#appereance)
 - [Requirements](README.md#requirements)
 - [Built with](README.md#build-with)
 
-2. [Getting Started](README.md#getting-started)
+2. [GETTING STARTED](README.md#getting-started)
 - [function](README.md#function)
 
-3. [Links of my works](README.md#links-of-my-works)
+3. [LINKS OF MY WORKS](README.md#links-of-my-works)
 
-## About the project
+## ABOUT THE PROJECT
 
 ### Appereance
 
@@ -27,7 +27,7 @@ Develop a JavaScript application that allows the user to increase and decrease t
 - CSS3
 - Javascript
 
-## Getting Started
+## GETTING STARTED
 
 ## Function
 
@@ -35,7 +35,7 @@ As soon as the user enters the page, he will see 0 as the value of the counter a
 
 ![Counter_application_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/101564006/163794337-4f47261d-7312-4e2e-ac3d-e2bee4235891.gif)
 
-## 💻Links of my works
+## 💻LINKS OF MY WORK
 
 - [HTML & CSS Site](https://625d3eb737f5c32fb98822ec--spectacular-biscuit-ec7dd4.netlify.app/)
 
