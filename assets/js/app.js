@@ -1,13 +1,17 @@
-var counter = 0;
+let inc = document.getElementById('increase')
+let dec = document.getElementById('decrease')
+let num = document.getElementById('number')
 
-function increase(){
-    counter++;
-    document.getElementById("number").innerHTML = counter;
-}
+let counter = 0
 
-function decrease(){
-    if (counter != 0) {
-        counter--;
+inc.addEventListener('click', () =>{
+    counter += 1;
+    num.innerHTML = counter;
+});
+
+dec.addEventListener('click', () =>{
+    if (counter != 0){
+        counter--
     }
-    document.getElementById("number").innerHTML = counter;
-}  
+    num.innerHTML = counter;
+});
